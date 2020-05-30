@@ -7,7 +7,6 @@ section
 	
 
 	padding:10px;
-	
 	box-sizing:border-box;
 	clear:right;
 }
@@ -15,7 +14,6 @@ p
 {	
 	float:right;
 	text-align: center;
-	font-size:1.1em;
 	margin:0;
 	width:30%;
 	border-left: 1px solid black;
